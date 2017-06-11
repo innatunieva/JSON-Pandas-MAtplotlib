@@ -44,7 +44,7 @@ print output
 
 # #3
 
-# In[12]:
+# In[21]:
 
 import json
 input='''[
@@ -80,7 +80,7 @@ for x in inpt:
 
 # #4
 
-# In[16]:
+# In[30]:
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -92,7 +92,7 @@ plt.show()
 
 # #5
 
-# In[15]:
+# In[40]:
 
 import re
 import requests
